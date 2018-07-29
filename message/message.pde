@@ -1,6 +1,6 @@
 /*
 
- Sending the message: Customs House October 2010
+ Sending the message: Customs House September 2010
  
  * run the loading of strings into the queue in a background thread
  * wrap a map allowing translation between english & morse code
